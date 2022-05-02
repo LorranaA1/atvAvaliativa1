@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto:wght@100&display=swap');
+body {
+    font-family: 'Montserrat';
+    margin: 0;
+}
+
+#navbar {
+    background-color: rgb(236, 201, 250);
+    height: 3em;
+}
+
+#navbar p, a{
+    float: left;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    margin-left: 10%;
+    margin-top: 0.6%;
+}
+
+#Início img{
+    margin-top: 10%;
+    margin-left: 11%;
+    width: 150px;
+    height: 160px;
+}
+
+#Início p{
+    font-size: 20;
+    margin-left: 10%;
+}
+
+#principal h1, h2, h3, h4, p{
+    margin-left: 1%;
+    border:rgb(0, 0, 0);
+    font-size: 15;
+    border-width: black;
+}
+
+.hobbie1{
+    float: left;
+    width: 1%;
+    margin-left: 2%;
+}
+
+.hobbie1 img{
+    width: 200px;
+    height: 150px;
+}
+
+.hobbie2{
+    float: left;
+    width: 1%;
+    margin-left: 1%;
+}
+
+.hobbie2 img{
+    width: 200px;
+    height: 200x;
+    margin-left: 1000%;
+}
+
+.hobbie2 p{
+    margin-left: 1000%;
+}
+
+.hobbie3{
+    float: left;
+    width: 1%;
+    margin-left: 2%;
+}
+
+.hobbie3 img{
+    width: 200px;
+    height: 155px;
+    margin-left: 2000%;
+}
+
+.hobbie3 p{
+    margin-left: 2000%;
+}
+
+.hobbie4{
+    float: left;
+    width: 1%;
+    margin-left: 3%;
+}
+
+.hobbie4 img{
+    width: 200px;
+    height: 155px;
+    margin-left: 3000%;
+}
+
+.hobbie4 p{
+    margin-left: 3000%;
+}
+
+footer p{
+    color:rgba(175, 47, 79, 0.856);
+}
+
+footer{
+    margin-right: 200000%;
+}
